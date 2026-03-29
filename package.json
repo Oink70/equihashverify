@@ -33,7 +33,7 @@
     "homepage": "https://github.com/s-nomp/equihashverify",
     "dependencies": {
         "bindings": "*",
-        "libsodium": "^0.7.3",
+        "libsodium": "^0.8.2",
         "nan": "*",
         "node-gyp": "*"
     },
